@@ -2,6 +2,9 @@
 ---
 ### Обо мне:
  Я начинающий тестировщик из Екатеринбурга
+###
+[Мое резюме](https://drive.google.com/file/d/12X8ow3G0GRkTZQeuQJv7g_65mCwmoSIA/view?usp=sharing)
+
 ## Социальные сети:
  <div id="badges">
     <a href="https://t.me/nastua_ok" target="_blank">
